@@ -6,14 +6,14 @@ ___
 
 Faça o clone do projeto, navegue até o diretório e execute o seguinte comando:
    
-```
+```sh
  npm install http-server -g
 ```
 ___
 
 Depois que a instalação terminar, execute o comando para subir o serviço:
 
-```
+```sh
  http-server // Sem necessidade, mas pode ser usado:[path] [options]
 ```
 ___
