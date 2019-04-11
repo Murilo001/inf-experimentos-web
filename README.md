@@ -2,25 +2,16 @@
 Repositório de experimentos para a disciplina de desenvolvimento web - UFG.
 ___
 
-## Como usar?
+## Quais experimentos
 
-Faça o clone do projeto, navegue até o diretório e execute o seguinte comando:
+ - Exemplo-01 : Aplicação web mínima que roda localmente na porta 8080.
    
-```
- npm install http-server -g
-```
-___
+### Exemplos
 
-Depois que a instalação terminar, execute o comando para subir o serviço:
+* [`exemplo-01`](exemplo-01/README.md) - Mínimo de uma aplicação web.
 
-```
- http-server // Sem necessidade, mas pode ser usado:[path] [options]
-```
-___
+## Links
+Alguns links úteis para os experimentos:
 
-Navegue até:
-[http://localhost:8080](http://localhost:8080)
-
-
-Pronto, pode começar a utilizar.
+* [Markdown Guide](https://www.markdownguide.org)
 
