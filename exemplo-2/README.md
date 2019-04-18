@@ -2,8 +2,8 @@
 Repositório de experimentos para a disciplina de desenvolvimento web - UFG.
 ___
 
-## Exemplo - 1: Hello World
-Projeto para demonstrar uma aplicação simples que utiliza um servidor HTTP.
+## Exemplo - 2: Calculadora de Churrasco
+Calculadora de churrasco conforme o ["http://tabuadecarne.com.br/calculadora-de-churrasco/"](exemplo de calculadora.)
 
 ## Como usar?
 
