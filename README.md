@@ -17,4 +17,5 @@ ___
 Alguns links úteis para os experimentos:
 
 * [Markdown Guide](https://www.markdownguide.org)
+* [Contributors Template](https://allcontributors.org/)
 

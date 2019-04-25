@@ -3,7 +3,13 @@ Repositório de experimentos para a disciplina de desenvolvimento web - UFG.
 ___
 
 ## Exemplo - 2: Calculadora de Churrasco
-Calculadora de churrasco conforme o ["http://tabuadecarne.com.br/calculadora-de-churrasco/"](exemplo de calculadora.)
+Calculadora de churrasco conforme o [exemplo de calculadora.]("http://tabuadecarne.com.br/calculadora-de-churrasco/")
+A calculadora deve funcionar da seguinte forma:
+ - Informa a quantidade de pessoas dividido por Homens, Mulheres e Crianças.
+ - Informa os tipos de carne.
+ - Informa quais os tipos de bebidas e acompanhamentos.
+ - Retorna a quantidade em KG de carne e quantas unidades das bebidas / acompanhamentos.
+
 
 ## Como usar?
 
