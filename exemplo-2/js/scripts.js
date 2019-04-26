@@ -30,6 +30,7 @@ $(document).ready(function () {
         $('select').each(function () {
             if (contadorSelect == 0) {
                 newCarnes = newCarnes.concat($(this).val());
+                contadorSelect++;
             } else if (contadorSelect == 1) {
                 newFrango = newFrango.concat($(this).val()); 
                 contadorSelect++;
